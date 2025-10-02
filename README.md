@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently a PhD student. My current work and research focus on Trustworthy AI / Speech & Audio Generation / Data Hiding.
+## Research
+- De-AntiFake: Rethinking the Protective Perturbations Against Voice Cloning Attacks. _**Wei Fan**, Kejiang Chen, Chang Liu, Weiming Zhang, Nenghai Yu_. (ICML 2025)
+[[Paper](https://arxiv.org/abs/2507.02606)] [[Code](https://github.com/cyberrrange/De-AntiFake)] [[Project Page](https://de-antifake.github.io/)]
+
+- WavInWav: Time-domain Speech Hiding via Invertible Neural Network. _**Wei Fan**, Kejiang Chen, Xiangkun Wang, Weiming Zhang, Nenghai Yu_.
+[[Project Page](https://cyberrrange.github.io/project/wavinwav)]
+
+- Vector Database Watermarking. _Zhiwen Ren, Qiyi Yao, **Wei Fan**, Jing Qiu, Weiming Zhang, Nenghai Yu_. (NeurIPS 2025) [[Conference](https://neurips.cc/virtual/2025/poster/119208)]
+
+## Contact
+range@mail.ustc.edu.cn
